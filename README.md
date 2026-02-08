@@ -93,7 +93,7 @@ Expected Graduation: **September 2026**
 ## 📫 Contact
 - Email: [uetawais42@gmail.com](mailto:uetawais42@gmail.com)  
 - GitHub: [Awais-Nazir](https://github.com/Awais-Nazir)  
-- LinkedIn: Muhammad Awais Nazir
+- LinkedIn: [M Awais Nazir](https://linkedin.com/in/mAwaisNazir) 
 
 ---
 
