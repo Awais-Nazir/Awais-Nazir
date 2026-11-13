@@ -4,6 +4,8 @@ I'm a backend engineer based in Taxila, Pakistan, with a Software Engineering de
 
 My own projects lately are about putting LLMs behind APIs that have to behave: users who only see their own data, and actions that wait for a person to approve them. I'm looking for software engineer and AI backend roles.
 
+Open to remote backend and AI engineering roles with international and national teams.
+
 ## Projects
 
 - [Hisab AI Agent](https://github.com/Awais-Nazir/Hisab-AI-Agent) ([live](https://hisab.awaisnazir.tech/chat)): a FastAPI agent for expense tracking. You write in Roman Urdu or English, the model proposes an entry, and nothing is saved until you confirm. A 20-case eval set checks its tool calls.
@@ -15,9 +17,11 @@ Hisab Kitab, the agent and the Knowledge Assistant app all need an account to tr
 
 ## Stack
 
-Python, FastAPI, NestJS, Next.js, PostgreSQL, Redis, Docker.
+Python, FastAPI, NestJS, Next.js, PostgreSQL, Redis, Docker. AWS (EC2, RDS, S3)
 
 ## Elsewhere
 
 - Portfolio: [awaisnazir.tech](https://awaisnazir.tech)
-- More projects: [showcase.awaisnazir.tech](https://showcase.awaisnazir.tech)
+- LinkedIn: [Muhammad Awais Nazir](https://linkedin.com/in/m-awais-nazir/)
+- Email: [uetawais42@gmail.com](mailto:uetawais42@gmail.com)
+
